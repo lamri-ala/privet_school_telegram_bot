@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.1",
-  "download_url": "https://example.com/download",
-  "release_notes": "الإصدار الأول"
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/latest",
+  "release_notes": "الإصدار الأول",
+  "release_date": "2026-01-21T22:43:01Z"
 }
-
